@@ -1,0 +1,21 @@
+# (内容は変更なし)
+.git/
+.gitignore
+.dockerignore
+README.md
+streamlit_app/config.yaml
+venv/
+env/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+cloud_functions/
+firestore.rules
+firebase.json
+generate_project*.sh
+*.tfstate
+*.tfstate.backup
+.firebase/
+*.log

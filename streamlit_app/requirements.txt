@@ -1,0 +1,7 @@
+# (内容は変更なし)
+streamlit>=1.30.0
+# google-cloud-firestore>=2.14.0 # Functions経由なら不要かも
+streamlit-authenticator>=0.3.0
+pytz>=2023.3
+PyYAML>=6.0
+requests>=2.28.0 # Cloud Functions 呼び出し用

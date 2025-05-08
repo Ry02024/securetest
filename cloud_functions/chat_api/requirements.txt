@@ -1,0 +1,6 @@
+# (内容は変更なし)
+Flask>=2.0.0
+google-cloud-firestore>=2.14.0
+google-auth>=2.15.0
+pytz>=2023.3
+gunicorn

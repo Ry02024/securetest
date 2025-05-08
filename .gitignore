@@ -1,0 +1,40 @@
+# (内容は変更なし)
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+pip-freeze.txt
+pip-selfcheck.json
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets / Config
+streamlit_app/config.yaml
+secrets/
+.env
+*.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Firebase cache/logs
+.firebase/
+firebase-debug.log
+database-debug.log
+firestore-debug.log
+storage-debug.log
+ui-debug.log
